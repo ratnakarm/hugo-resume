@@ -1,16 +1,16 @@
-baseURL = "https://example.com/"
+baseURL = "https://ratnakar.ml/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Ratnakar Muramalla"
 theme = "hugo-resume"
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
+    firstName = "Ratnakar"
+    lastName = "Muramalla"
     address = "Rollinsford, NH"
     phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
+    contactNote = " Full Stack Developer"
+    profileImage = "img/Ratnakar.png"
+    email = "fullstackwebdeveloper@gmail.com"
     description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
     # what sections
@@ -30,7 +30,7 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/ratnakarm/"
 
 [[params.handles]]
     name = "Bitbucket"
@@ -47,4 +47,4 @@ theme = "hugo-resume"
     icon = "keybase"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = ""
